@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/library.html" }
-     { "source": "/(.*)", "destination": "/booklist.html" }
+    { "source": "/(.*)", "destination": "/parallax.html" }
   ]
 }
